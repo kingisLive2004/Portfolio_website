@@ -3,9 +3,9 @@ import facebookImg from "../assets/facebook.avif";
 import twitterImg from "../assets/twitter.avif";
 import linkedinImg from "../assets/linkedin.avif";
 import instagramImg from "../assets/instagram.avif";
-import project1Img from "../assets/project1.jpg";
-import project2Img from "../assets/project2.jpg";
-import project3Img from "../assets/project3.jpg";
+import project1Img from "../assets/project1.jpeg";
+import project2Img from "../assets/project2.png";
+import project3Img from "../assets/project3.jpeg";
 import project4Img from "../assets/project4.jpg";
 import project5Img from "../assets/project5.jpg";
 
@@ -117,7 +117,7 @@ export const projectDatas = [
     designation: "Senior Project Manager",
     description: `Built a full-stack Expense Tracker that enables users to manage and categorize expenses with secure authentication and interactive spending insights.`,
     image: project1Img,
-    link: "https://github.com/yourusername/expense-tracker", // Add GitHub or live demo link
+    link: "https://github.com/kingisLive2004/Expense_Tracker",
   },
   {
     name: "Portfolio Website",
@@ -125,7 +125,7 @@ export const projectDatas = [
     designation: "Project Manager",
     description: `Designed and developed a responsive portfolio website using ReactJS. Implemented smooth navigation, animations, and a clean UI/UX for an engaging presentation. Deployed the website online for accessibility across devices.`,
     image: project2Img,
-    link: "https://yourportfolio.com", // Your live portfolio site link
+    link: "https://portfolio-website-xi-sooty.vercel.app/",
   },
   {
     name: "Crop Yield Prediction",
@@ -133,7 +133,6 @@ export const projectDatas = [
     designation: "Assistant Project Manager",
     description: `Developed a machine learning model to predict crop yield based on environmental and agricultural parameters such as rainfall, temperature, and soil quality. Used a Decision Tree Regressor for predictions, along with data preprocessing, feature selection, and model evaluation to improve accuracy and generalization.`,
     image: project3Img,
-    link: "https://github.com/yourusername/crop-yield-prediction", // GitHub repo link
+    link: "https://github.com/kingisLive2004/Crop_Yield",
   },
 ];
-
